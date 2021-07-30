@@ -1,12 +1,13 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Khomkrit -->
+## 👋 &nbsp;Hey there! I'm Khomkrit
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a new graduate with a bachelor's degree in Software Engineering from Mae Fah Luang University, Thailand.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Algorithms, Web Development, Systems Design, and Cloud Architecture.\
-
-<img alt="Coding" height="300em" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right"/>
+:mortar_board: I'm a new graduate with a bachelor's degree in Software Engineering from Mae Fah Luang University, Thailand.\
+:star: I like to explore new technologies and develop software solutions and quick hacks.\
+:dart: I'm on track for learning more about Algorithms, Web Development, Systems Design, and Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,16 +22,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellij-idea).\
+![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellij-idea)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omekrit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omekrit&theme=dracula&layout=compact&langs_count=8"/>
+<a href="https://github.com/omekrit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omekrit&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omekrit&theme=buefy&layout=compact&langs_count=8"/>
 </a>
 </p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
