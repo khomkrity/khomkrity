@@ -40,8 +40,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/khomkrit-yongcharoenchaiyasit-11a2b51a3/"><img src="https://img.shields.io/badge/-Khomkrit%20Y.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khomkrit.y@gmail.com"><img src="https://img.shields.io/badge/-khomkrit.y@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/omekrit_"><img src="https://img.shields.io/badge/-@omekrit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/OmekritY/"><img src="https://img.shields.io/badge/-@Obito-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/omekrit_"><img src="https://img.shields.io/badge/-omekrit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/OmekritY/"><img src="https://img.shields.io/badge/-Obito-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
