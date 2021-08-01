@@ -1,15 +1,14 @@
-## 👋 &nbsp;Hey there! I'm Khomkrit
+## 👋 Hey there! I'm Khomkrit
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+### 👨🏻‍💻 About Me
 
-### 👨🏻‍💻 &nbsp;About Me
+🎓 I'm a new graduate with a bachelor's degree in Software Engineering from Mae Fah Luang University, Thailand.\
+⭐ I like to explore new technologies and develop software solutions and quick hacks.\
+🎯 I'm on track for learning more about Algorithms, Web Development, Systems Design, and Cloud Architecture.
 
-:mortar_board: I'm a new graduate with a bachelor's degree in Software Engineering from Mae Fah Luang University, Thailand.\
-:star: I like to explore new technologies and develop software solutions and quick hacks.\
-:dart: I'm on track for learning more about Algorithms, Web Development, Systems Design, and Cloud Architecture.
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -25,7 +24,7 @@
 ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-05122A?style=flat&logo=intellij-idea)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/omekrit">
@@ -35,7 +34,7 @@
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/khomkrit-yongcharoenchaiyasit-11a2b51a3/"><img src="https://img.shields.io/badge/-Khomkrit%20Y.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
