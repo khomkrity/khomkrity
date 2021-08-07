@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 About Me
 
 🎓 I'm a new graduate with a bachelor's degree in Software Engineering from Mae Fah Luang University, Thailand.\
-⭐ I like to explore new technologies and blog what I've learned throughout the process.\
+⭐ I like to explore new technologies and blog what I've learned throughout my journey.\
 🎯 I'm on track for learning more about Algorithms, Web Development, Systems Design, and Cloud Architecture.
 
 ### 🛠 Tech Stack
