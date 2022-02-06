@@ -28,8 +28,8 @@
 
 <p align="center">
 <a href="https://github.com/khomkrity">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omekrit&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omekrit&theme=vue-dark&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khomkrity&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khomkrity&theme=vue-dark&layout=compact&langs_count=8"/>
 </a>
 </p>
 
