@@ -27,7 +27,7 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/omekrit">
+<a href="https://github.com/khomkrity">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omekrit&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omekrit&theme=vue-dark&layout=compact&langs_count=8"/>
 </a>
